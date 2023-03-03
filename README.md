@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -    Advertisement-prediction-model         |  -   LifeLux Inc. is building a model to better understand the relationship between advertisement and unit sales.          | https://  https://github.com/SONNY-SONNIX/Advertisement-prediction-model   |
+| 2 |  - Housing-Project-Model-CRISP-DM-            |  -  Housing Project Model using CRISP-DM           | https://  https://github.com/SONNY-SONNIX/Housing-Project-Model-CRISP-DM-
+| 3 |  -  Califonia-Housing-Project           |  -             | https://  https://github.com/SONNY-SONNIX/Califonia-Housing-Project     |Performing exploratory data Analysis on the Califonia Housing project dataset.
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
